@@ -34,7 +34,7 @@ cd pizza-api
 pipenv install flask flask_sqlalchemy flask_migrate
 pipenv shell
 
-nitialize and Migrate the Database
+Initialize and Migrate the Database
 bash
 Copy
 Edit
